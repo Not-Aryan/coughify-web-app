@@ -1,4 +1,4 @@
-numpy==1.16.1 numba
+numpy==1.16.1
 librosa==0.6.2
 tensorflow==2.0.0
 pandas==1.0.3
